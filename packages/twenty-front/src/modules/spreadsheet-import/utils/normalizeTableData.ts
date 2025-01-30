@@ -1,11 +1,11 @@
 import {
-    Columns,
-    ColumnType,
+  Columns,
+  ColumnType,
 } from '@/spreadsheet-import/steps/components/MatchColumnsStep/MatchColumnsStep';
 import {
-    Fields,
-    ImportedRow,
-    ImportedStructuredRow,
+  Fields,
+  ImportedRow,
+  ImportedStructuredRow,
 } from '@/spreadsheet-import/types';
 
 import { isDefined } from 'twenty-ui';
